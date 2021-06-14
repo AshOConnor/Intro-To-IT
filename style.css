@@ -103,28 +103,6 @@ input, select {
 
 
 /*my own css code*/
-h1 {
-    font: 32px Verdana, Geneva, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-}
-h2  {
-  font: 24px Verdana, Geneva, Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-h3  {
-  font: 18px Verdana, Geneva, Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-h4 {
-  font: 16px Verdana, Geneva, Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-
-
-p.subheader {
-    font-weight: bold;
-    color: #593d87;
-}
 
 div {
   width: 600px;
