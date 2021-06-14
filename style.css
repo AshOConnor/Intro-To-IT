@@ -120,6 +120,21 @@ h1 {
     font-weight: bold;
     line-height: 20pt;
 }
+h2  {
+  font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+}
+h3  {
+  font: 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+}
+h4 {
+  font: 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+}
 
 
 p.subheader {
