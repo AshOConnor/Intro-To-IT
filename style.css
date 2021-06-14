@@ -8,7 +8,7 @@ body {
   padding-right: 5pt;
   padding-top: 5pt;
   background-image: url(img/road.jpeg);
-  
+  background-size: cover;
 }
 
 
