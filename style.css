@@ -178,3 +178,17 @@ body {
 .wrapper > div:nth-child(odd){
   background: #00F5D8;
 }
+
+.custom{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2px;
+}
+
+.custom > div{
+  background: #04A693;
+  padding:16px;
+}
+.custom > div:nth-child(odd){
+  background: #00F5D8;
+}
