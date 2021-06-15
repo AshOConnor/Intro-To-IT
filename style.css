@@ -105,47 +105,47 @@ input, select {
 /*my code below*/
 
 h1 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Trirong", serif;
   font-size: 32px;
   font-style: italic;
-  font-weight: 500;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
 }
 
 h2 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Trirong", serif;
   font-size: 28px;
   font-style: italic;
-  font-weight: 500;
+  font-weight: bold;
   text-align: center;
   text-decoration: underline;
   text-transform: capitalize;
 }
 
 h3 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Trirong", serif;
   font-size: 22px;
   font-style: italic;
-  font-weight: 500;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
 }
 
 h4 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Trirong", serif;
   font-size: 18px;
   font-style: italic;
-  font-weight: 500;
+  font-weight: bold;
   text-align: justify;
   text-decoration: none;
   text-transform: capitalize;
 }
 
 p {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Trirong", serif;
   font-size: 16px;
   font-style: italic;
   font-weight: 500;
